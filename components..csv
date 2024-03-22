@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"UController",1," Arduino Uno R3"
+"MDoor Motor",1," DC Motor"
+"DDetect_true",1,"Red LED"
+"PINGDistance Sensor ",1," Ultrasonic Distance Sensor"
+"RLED_Resistor",1,"165 Ω Resistor"
+"U1",1," H-bridge Motor Driver"
